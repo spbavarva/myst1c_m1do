@@ -1,0 +1,307 @@
+{
+  "main": {
+    "id": "33cfa51f32f2a789",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d99820bc6c0bc12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76804bfe7c17d8ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PG/Play/Sar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ae2de00e0c0edcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PG/Play/Dawn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3bbca07235c8822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "password-attacks/attacking-sam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17c2f9f27d17217a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/mocks/A/192.168.x.145 - hermes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03a1f6ccd7c02b1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/mocks/A/192.168.x.143 - aero.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56fce2f7abd64c0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/port redirection and SSH tunneling/SSH Tunneling - Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0246bd0141fd5f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "priv-esc/1.-windows-post-exploitation/git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbc2a43800402201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PG/Play/Sar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a684a4d091cdda59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Relia/192.168.x.191 - Login.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "277845110b24e21b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/medTech/Creds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "990b081318cb4532",
+    "type": "split",
+    "children": [
+      {
+        "id": "e66e6b440f7b68fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46bf869dbbae9640",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "b7b4c6f7b65d7fb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dmzadmin",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e78d6a86c24ef1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfdc0567fb7c5c17",
+    "type": "split",
+    "children": [
+      {
+        "id": "885c690f8ab99472",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9748eefcca450fb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OSCP/Relia/192.168.x.191 - Login.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c931644689e54e30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OSCP/Relia/192.168.x.191 - Login.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9c7e8e5c44f4629",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "279a8ed28fce0a66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OSCP/Relia/192.168.x.191 - Login.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a684a4d091cdda59",
+  "lastOpenFiles": [
+    "OSCP/Relia/192.168.x.189 - MAIL.md",
+    "OSCP/Relia/172.16.x.14 - WK01.md",
+    "OSCP/Relia/192.168.x.249 - LEGACY.md",
+    "OSCP/Relia/192.168.x.191 - Login.md",
+    "OSCP/Relia/192.168.x.247 - web02.md",
+    "OSCP/Relia/172.16.x.6 - DC02.md",
+    "OSCP/Relia/Creds.md",
+    "OSCP/mocks/A/10.10.x.142 - MS02.md",
+    "OSCP/mocks/A/10.10.x.140 - DC01.md",
+    "OSCP/password attacks/Pass hashes.md",
+    "OSCP/AD/ENUM.md",
+    "OSCP/enable rdp with nxc.md",
+    "pivoting-tunneling-and-port-forwarding/dynamic-port-forwarding-with-ssh-and-socks-tunneling.md",
+    "password-attacks/common-brute-force.md",
+    "OSCP/password attacks/Attacking services Logins (SSH, RDP, HTTP POST).md",
+    "OSCP/port redirection and SSH tunneling/port forwarding with windows.md",
+    "transfer-files/using-rdp.md",
+    "password-attacks/windows-lateral-movement/pass-the-hash.md",
+    "OSCP/mocks/A/192.168.x.141 - MS01.md",
+    "transfer-files/windows-upload-to-kali.md",
+    "priv-esc/linux-post-exploitation/3. cron-job.md",
+    "OSCP/password attacks/pass crack fundamentals.md",
+    "transfer-files/linux.md",
+    "priv-esc/linux-post-exploitation/5. capabilities.md",
+    "priv-esc/linux-post-exploitation/8. kernel exploit.md",
+    "priv-esc/linux-post-exploitation/6. NFS misconfig.md",
+    "images/Pasted image 20240612011328.png",
+    "images/Pasted image 20240611211652.png",
+    "images/Pasted image 20240611211511.png",
+    "images/Pasted image 20240611211422.png",
+    "images/Pasted image 20240611211405.png",
+    "images/Pasted image 20240611211123.png",
+    "images/Pasted image 20240611210611.png",
+    "images/Pasted image 20240611210448.png",
+    "images/Pasted image 20240611210427.png",
+    "images/Pasted image 20240611025744.png",
+    "OSCP/mocks/A",
+    "OSCP/mocks",
+    "OSCP/Relia.zip",
+    "OSCP/Relia",
+    "OSCP/med/Untitled",
+    "lol",
+    "OSCP/medTech",
+    "OSCP/assembling pieces",
+    "OSCP/AD",
+    "OSCP/port redirection and SSH tunneling"
+  ]
+}

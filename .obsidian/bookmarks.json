@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1713870067309,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1713870055717,
+          "path": "OSCP/common web attacks/dir traversal.md",
+          "subpath": "#attacking grafana"
+        },
+        {
+          "type": "file",
+          "ctime": 1713870519140,
+          "path": "OSCP/common web attacks/dir traversal.md",
+          "subpath": "#Apache 2.4.49.1 have vulnerability which can be exploited by using a relative path after specifying the cgi-bin directory in the URL",
+          "title": "dir traversal Apache 2.4.49.1"
+        },
+        {
+          "type": "file",
+          "ctime": 1713881882141,
+          "path": "OSCP/common web attacks/LFI.md",
+          "subpath": "#attacking Apache httpd 2.4.38 (Log poison)"
+        }
+      ],
+      "title": "web attacks"
+    },
+    {
+      "type": "file",
+      "ctime": 1714227465950,
+      "path": "Quick commands to run first.md",
+      "subpath": "#command to check which shell",
+      "title": "Command to check shell"
+    },
+    {
+      "type": "file",
+      "ctime": 1714236640129,
+      "path": "OSCP/common web attacks/LFI.md",
+      "subpath": "#get reverse shell",
+      "title": "reverse shell bash"
+    }
+  ]
+}
