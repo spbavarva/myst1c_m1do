@@ -8,127 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76804bfe7c17d8ae",
+            "id": "93356979773f07a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PG/Play/Sar.md",
+                "file": "PG/Play/Nukem.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ae2de00e0c0edcf",
+            "id": "8bfc657d5971112a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PG/Play/Dawn.md",
+                "file": "PG/Play/pyloader.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f3bbca07235c8822",
+            "id": "adfa0079d8edb45f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "password-attacks/attacking-sam.md",
+                "file": "PG/Play/extplorer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "17c2f9f27d17217a",
+            "id": "95875cfa42661682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/mocks/A/192.168.x.145 - hermes.md",
+                "file": "PG/Play/snookums.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "03a1f6ccd7c02b1c",
+            "id": "65fd90aea957f24a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/mocks/A/192.168.x.143 - aero.md",
+                "file": "PG/Play/peppo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "56fce2f7abd64c0b",
+            "id": "05bb327cac02d2d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/port redirection and SSH tunneling/SSH Tunneling - Linux.md",
+                "file": "OSCP/IMP THINGS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c0246bd0141fd5f2",
+            "id": "cda90fb55e9ab2ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "priv-esc/1.-windows-post-exploitation/git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbc2a43800402201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PG/Play/Sar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a684a4d091cdda59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/Relia/192.168.x.191 - Login.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "277845110b24e21b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/medTech/Creds.md",
+                "file": "Quick commands to run first.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -157,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dmzadmin",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -178,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 292.5
   },
   "right": {
     "id": "dfdc0567fb7c5c17",
@@ -188,35 +152,6 @@
         "id": "885c690f8ab99472",
         "type": "tabs",
         "children": [
-          {
-            "id": "9748eefcca450fb3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "OSCP/Relia/192.168.x.191 - Login.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c931644689e54e30",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "OSCP/Relia/192.168.x.191 - Login.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "a9c7e8e5c44f4629",
             "type": "leaf",
@@ -229,12 +164,41 @@
             }
           },
           {
-            "id": "279a8ed28fce0a66",
+            "id": "461629cd53032245",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OSCP/IMP THINGS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51a96b6de38c75ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OSCP/IMP THINGS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3d1ff1baf7ee48a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Relia/192.168.x.191 - Login.md"
+                "file": "OSCP/IMP THINGS.md"
               }
             }
           }
@@ -243,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,53 +219,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a684a4d091cdda59",
+  "active": "05bb327cac02d2d8",
   "lastOpenFiles": [
-    "OSCP/Relia/192.168.x.189 - MAIL.md",
-    "OSCP/Relia/172.16.x.14 - WK01.md",
-    "OSCP/Relia/192.168.x.249 - LEGACY.md",
-    "OSCP/Relia/192.168.x.191 - Login.md",
-    "OSCP/Relia/192.168.x.247 - web02.md",
-    "OSCP/Relia/172.16.x.6 - DC02.md",
-    "OSCP/Relia/Creds.md",
-    "OSCP/mocks/A/10.10.x.142 - MS02.md",
-    "OSCP/mocks/A/10.10.x.140 - DC01.md",
-    "OSCP/password attacks/Pass hashes.md",
-    "OSCP/AD/ENUM.md",
-    "OSCP/enable rdp with nxc.md",
-    "pivoting-tunneling-and-port-forwarding/dynamic-port-forwarding-with-ssh-and-socks-tunneling.md",
-    "password-attacks/common-brute-force.md",
-    "OSCP/password attacks/Attacking services Logins (SSH, RDP, HTTP POST).md",
-    "OSCP/port redirection and SSH tunneling/port forwarding with windows.md",
-    "transfer-files/using-rdp.md",
-    "password-attacks/windows-lateral-movement/pass-the-hash.md",
-    "OSCP/mocks/A/192.168.x.141 - MS01.md",
+    "OSCP/mocks/B/192.168.x.149 - Kiero.md",
+    "OSCP/mocks/B/10.10.x.148 - MS02.md",
+    "images/Pasted image 20240629161916.png",
+    "images/Pasted image 20240629161834.png",
+    "images/Pasted image 20240629161637.png",
+    "images/Pasted image 20240629161627.png",
+    "images/Pasted image 20240629161103.png",
+    "images/Pasted image 20240629161012.png",
+    "images/Pasted image 20240629160436.png",
+    "images/Pasted image 20240629160424.png",
+    "images/Pasted image 20240629160411.png",
+    "transfer-files/windows-download-from-kali.md",
+    "transfer-files/transferring-files-with-code.md",
     "transfer-files/windows-upload-to-kali.md",
-    "priv-esc/linux-post-exploitation/3. cron-job.md",
-    "OSCP/password attacks/pass crack fundamentals.md",
-    "transfer-files/linux.md",
-    "priv-esc/linux-post-exploitation/5. capabilities.md",
-    "priv-esc/linux-post-exploitation/8. kernel exploit.md",
-    "priv-esc/linux-post-exploitation/6. NFS misconfig.md",
-    "images/Pasted image 20240612011328.png",
-    "images/Pasted image 20240611211652.png",
-    "images/Pasted image 20240611211511.png",
-    "images/Pasted image 20240611211422.png",
-    "images/Pasted image 20240611211405.png",
-    "images/Pasted image 20240611211123.png",
-    "images/Pasted image 20240611210611.png",
-    "images/Pasted image 20240611210448.png",
-    "images/Pasted image 20240611210427.png",
-    "images/Pasted image 20240611025744.png",
-    "OSCP/mocks/A",
-    "OSCP/mocks",
-    "OSCP/Relia.zip",
-    "OSCP/Relia",
-    "OSCP/med/Untitled",
-    "lol",
-    "OSCP/medTech",
-    "OSCP/assembling pieces",
-    "OSCP/AD",
-    "OSCP/port redirection and SSH tunneling"
+    "Exam(OSCP) 1st/AD.md",
+    "Active Directory Attacks b4737d36b74b44b7b6d9567ae51847da/priveleged access 45b678ddc3fa473985a49888ee0aa479.md",
+    "Active Directory Enumeration 096de03db27d4da692461f1dd6f1519c/Credentialed Enumeration - from Linux 663798d900dd4dc1bfd534287c1a84b0.md",
+    "active-directory/README.md",
+    "OSCP/Ligolo.md",
+    "OSCP/mocks/B/192.168.x.147 - MS01.md",
+    "OSCP/AD/ENUM.md",
+    "Windows Privilege Escalation f4c4d24f36024a76ae5888faf58dac19/Enumeration f969c42f770b4722a7e076d5b48fdb9e/CREDENTIAL THEFT 6fe9f1dfdff64ea59ebec0ac330bea17/Further credential theft b3d2bd76bca44910bd37629e83d1324c.md",
+    "OSCP/AD/attacks on AD auth.md",
+    "Active Directory Enumeration 096de03db27d4da692461f1dd6f1519c/Enumeration using powershell 9e5df6f0089149898e67c73b95f626a6.md",
+    "Active Directory Attacks b4737d36b74b44b7b6d9567ae51847da/DCSync cadbaecf9d2348348cce949817c85d84.md",
+    "PG/Play/access.md",
+    "Active Directory Attacks b4737d36b74b44b7b6d9567ae51847da/Kerberoasting be7fea2e8b9e48798bb2482d6276c4f7/Kerberoasting from Windows a46ff94fb3894258a01ba7e81ed74d59.md",
+    "Active Directory Attacks b4737d36b74b44b7b6d9567ae51847da/Golden Ticket 95af906ea1a445fcad9160f442b3065b.md",
+    "active-directory/enumerating-and-retrieving-password-policies.md",
+    "Active Directory Attacks b4737d36b74b44b7b6d9567ae51847da/ACL 9a010830452244adbe64145b7ff4cf25/ACL Enumeration b2acca6c1b1a44f6b20ae0a6c1dba3b1.md",
+    "OSCP/Relia/172.16.x.6 - DC02.md",
+    "password-attacks/windows-lateral-movement/pass-the-ticket-from-windows.md",
+    "Active Directory Attacks b4737d36b74b44b7b6d9567ae51847da/Kerberoasting be7fea2e8b9e48798bb2482d6276c4f7/Kerberoasting - from Linux 600c68c05d5945c092688883bbdbaf91.md",
+    "Active Directory Attacks b4737d36b74b44b7b6d9567ae51847da/Credentials in Shares 3b354abd936c4d07a4fc655e6322191d.md",
+    "Active Directory Attacks b4737d36b74b44b7b6d9567ae51847da/Kerberos Constrained Delegation b576a7a3a6d9458e99a5f4d4f30a4114.md",
+    "images/Pasted image 20240629134810.png",
+    "OSCP/mocks/B",
+    "Active Directory Enumeration 096de03db27d4da692461f1dd6f1519c/User Enumeration bb58f57d7a794eaa8787eeeb635b0993/Without Credentials 1198007f8ba44af68060914877d4716c/User Enumeration without credentials e3675fa6fd0e4fffa79f4b98f633cc4f",
+    "Active Directory Enumeration 096de03db27d4da692461f1dd6f1519c/User Enumeration bb58f57d7a794eaa8787eeeb635b0993/Without Credentials 1198007f8ba44af68060914877d4716c",
+    "Active Directory Enumeration 096de03db27d4da692461f1dd6f1519c/User Enumeration bb58f57d7a794eaa8787eeeb635b0993",
+    "Active Directory Enumeration 096de03db27d4da692461f1dd6f1519c",
+    "Active Directory Attacks b4737d36b74b44b7b6d9567ae51847da/Credentials in Shares 3b354abd936c4d07a4fc655e6322191d",
+    "Active Directory Attacks b4737d36b74b44b7b6d9567ae51847da/ACL 9a010830452244adbe64145b7ff4cf25",
+    "Active Directory Attacks b4737d36b74b44b7b6d9567ae51847da/Kerberoasting be7fea2e8b9e48798bb2482d6276c4f7",
+    "Active Directory Attacks b4737d36b74b44b7b6d9567ae51847da/Password Spraying 49a2cffcd8194d828cc2536bee93f783",
+    "Active Directory Attacks b4737d36b74b44b7b6d9567ae51847da/Initial Foothold cfcca08e27794adf989455e536ba0738"
   ]
 }

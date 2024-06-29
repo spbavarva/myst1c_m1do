@@ -6,6 +6,13 @@
 sudo apt update && sudo apt install exploitdb
 ```
 
+# redirection - CURL!
+
+```
+curl -v http://192.168.188.163
+```
+
+if it comes with `302` then add in hosts file!
 # Nmap
 
 ### all basic port scan
@@ -32,10 +39,23 @@ nmap -Pn -sCV -p- $IP -oN enum/all_ports
 nmap -sU -sV -vv $IP -oN enum/udp_ports
 ```
 
+```
+sudo nmap -Pn -n 192.168.182.71 -sU --top-ports=100
+```
 ### subnet scanning
 
 ```bash
 Nmap $IP/$subnet -sn
+```
+
+### ping sweep
+
+```cmd
+for /L %i in (1,1,255) do @ping -n 1 -w 200 192.168.1.%i > nul && echo 192.168.1.%i is up.
+```
+
+```powershell
+1..20 | % {"192.168.1.$($_): $(Test-Connection -count 1 -comp 192.168.1.$($_) -quiet)"}
 ```
 
 {% embed url="https://github.com/tedchen0001/OSCP-Notes/blob/master/find.md" %}
